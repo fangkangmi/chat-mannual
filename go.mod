@@ -1,4 +1,4 @@
-module mod
+module chat-mannual/cmd
 
 go 1.21.5
 

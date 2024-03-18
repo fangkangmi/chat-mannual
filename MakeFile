@@ -1,0 +1,5 @@
+sqlc:
+	@echo "Running sqlc generate command"
+	sqlc generate 
+
+.PHONY: sqlc
